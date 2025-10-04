@@ -17,12 +17,16 @@
     border-left: 10px;
     border-color: black;
     border-style: solid;
+    position: relative;
+    left: 250px;
 }
 #box3{
     background-color: yellow;
     border: 10px;
     border-color: black;
     border-style: solid;
+    position: relative;
+    left: 460px;
 }
 p{
     margin: 0px;
